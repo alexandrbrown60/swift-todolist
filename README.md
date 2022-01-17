@@ -5,4 +5,4 @@
 2. Screens created by code
 3. Realm for local storage
 
-![alt text](https://alivart.ru/img/todolist-app.png)
+<img src="https://alivart.ru/img/todolist-app.png" width="400">
